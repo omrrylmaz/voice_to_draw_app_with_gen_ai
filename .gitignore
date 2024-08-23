@@ -1,0 +1,9 @@
+# API anahtarları ve hassas bilgiler
+.env
+
+# Sanal ortam klasörleri
+venv/
+
+# Python derleme dosyaları
+__pycache__/
+*.pyc
