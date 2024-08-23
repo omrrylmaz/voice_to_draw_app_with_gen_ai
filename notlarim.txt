@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Commit mesajı"
+git push origin master
